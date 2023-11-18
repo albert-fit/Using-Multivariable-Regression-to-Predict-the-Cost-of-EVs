@@ -1,0 +1,344 @@
+﻿Model,Range (km),Battery size (kWh),Efficiency (kWh/100km),Fastcharge speed (km/h),Price (approx.) € 
+Abarth 500e Convertible ,225,37.8,17,370,41200
+Abarth 500e Hatchback ,225,37.8,17,370,38200
+Aiways U5 ,315,60,19,380,41300
+Aiways U6 ,350,60,17,430,48300
+Audi e-tron GT quattro ,420,85,20,1030,108600
+Audi e-tron GT RS ,405,85,21,1000,150400
+Audi Q4 e-tron 40 ,405,76.6,19,630,55700
+Audi Q4 e-tron 45 ,420,77,18,630,53900
+Audi Q4 e-tron 45 quattro ,395,77,20,590,55900
+Audi Q4 e-tron 50 quattro ,385,76.6,20,550,64500
+Audi Q4 e-tron 55 quattro ,395,77,20,590,61800
+Audi Q4 Sportback e-tron 40 ,425,76.6,18,660,57700
+Audi Q4 Sportback e-tron 45 ,435,77,18,650,55900
+Audi Q4 Sportback e-tron 45 quattro ,415,77,19,620,57900
+Audi Q4 Sportback e-tron 50 quattro ,400,76.6,19,570,66500
+Audi Q4 Sportback e-tron 55 quattro ,415,77,19,620,63800
+Audi Q8 e-tron 50 quattro ,420,89,21,650,72900
+Audi Q8 e-tron 55 quattro ,495,106,21,630,84100
+Audi Q8 e-tron Sportback 50 quattro ,445,89,20,690,75200
+Audi Q8 e-tron Sportback 55 quattro ,525,106,20,660,86500
+Audi SQ8 e-tron ,455,106,23,570,97500
+Audi SQ8 e-tron Sportback ,480,106,22,610,99800
+BMW i4 eDrive35 ,430,67,16,580,57900
+BMW i4 eDrive40 ,515,80.7,16,800,61100
+BMW i4 M50 ,450,80.7,18,700,73800
+BMW i5 eDrive40 Sedan ,475,81.2,17,710,73900
+BMW i5 M60 xDrive Sedan ,425,81.2,19,630,104000
+BMW i7 eDrive50 ,520,101.7,20,780,119100
+BMW i7 M70 xDrive ,490,101.7,21,730,185800
+BMW i7 xDrive60 ,510,101.7,20,760,142700
+BMW iX M60 ,485,105.2,22,650,137200
+BMW iX xDrive40 ,360,71,20,480,81100
+BMW iX xDrive50 ,505,105.2,21,680,102600
+BMW iX1 eDrive20 ,385,64.7,17,550,48100
+BMW iX1 xDrive30 ,370,64.7,18,530,56400
+BMW iX3 ,385,74,19,520,69400
+BYD ATTO 3 ,330,60.5,18,370,43800
+BYD DOLPHIN 44.9 kWh Active ,255,44.9,18,260,30000
+BYD DOLPHIN 44.9 kWh Boost ,255,44.9,18,260,32900
+BYD DOLPHIN 60.4 kWh ,340,60.5,18,340,36400
+BYD HAN ,475,85.4,18,450,71100
+BYD SEAL 82.5 kWh AWD Excellence ,485,82.5,17,530,52100
+BYD SEAL 82.5 kWh RWD Design ,500,82.5,17,550,47600
+BYD TANG ,360,86.4,24,330,72400
+Citroen e-Berlingo M 50 kWh ,205,46.3,23,330,39800
+Citroen e-Berlingo XL 50 kWh ,205,46.3,23,330,43600
+Citroen e-C4 ,290,46.3,16,460,36900
+Citroen e-C4 54 kWh ,320,50.8,16,460,40700
+Citroen e-C4 X ,275,46.3,17,440,38100
+Citroen e-C4 X 54 kWh ,305,50.8,17,440,41100
+Citroen e-Jumpy Combi M 50 kWh ,185,46.3,25,290,50000
+Citroen e-Jumpy Combi M 75 kWh ,265,68,26,290,57500
+Citroen e-Jumpy Combi XL 50 kWh ,180,46.3,26,290,51300
+Citroen e-Jumpy Combi XL 75 kWh ,260,68,26,280,58800
+Citroen e-SpaceTourer M 50 kWh ,185,46.3,25,290,55400
+Citroen e-SpaceTourer M 75 kWh ,265,68,26,290,62900
+Citroen e-SpaceTourer XL 50 kWh ,180,46.3,26,290,56700
+Citroen e-SpaceTourer XL 75 kWh ,260,68,26,280,64200
+CUPRA Born 150 kW - 58 kWh ,350,58,17,470,39700
+CUPRA Born 170 kW - 58 kWh ,345,58,17,460,44100
+CUPRA Born 170 kW - 77 kWh ,450,77,17,630,49200
+Dacia Spring Electric 45 ,165,25,15,180,22200
+Dacia Spring Electric 65 Extreme ,160,25,16,170,24000
+DS 3 E-Tense ,300,50.8,17,480,41300
+Elaris BEO 86 kWh ,390,81,21,290,53100
+Fiat 500e 3+1 24 kWh ,135,21.3,16,230,31000
+Fiat 500e 3+1 42 kWh ,235,37.3,16,390,36200
+Fiat 500e Cabrio 24 kWh ,135,21.3,16,230,33700
+Fiat 500e Cabrio 42 kWh ,230,37.3,16,380,37700
+Fiat 500e Hatchback 24 kWh ,135,21.3,16,230,30000
+Fiat 500e Hatchback 42 kWh ,235,37.3,16,390,34700
+Fiat 600e ,305,50.8,17,490,36200
+Fiat E-Ulysse L2 50 kWh ,185,46.3,25,290,56000
+Fiat E-Ulysse L2 75 kWh ,265,68,26,290,62000
+Fiat E-Ulysse L3 50 kWh ,180,46.3,26,290,57000
+Fiat E-Ulysse L3 75 kWh ,260,68,26,280,63000
+Fisker Ocean Extreme ,530,106.5,20,630,70500
+Fisker Ocean One ,530,106.5,20,630,70500
+Fisker Ocean Sport ,380,75,20,480,41800
+Fisker Ocean Ultra ,535,106.5,20,640,57500
+Ford Mustang Mach-E ER AWD ,440,91,21,390,74100
+Ford Mustang Mach-E ER RWD ,480,91,19,420,65300
+Ford Mustang Mach-E GT ,425,91,21,380,82700
+Ford Mustang Mach-E SR AWD ,345,70,20,360,67800
+Ford Mustang Mach-E SR RWD ,375,70,19,390,58400
+Genesis G80 Electrified Luxury ,440,82.5,19,880,69200
+Genesis GV60 Premium ,390,74,19,1020,53905
+Genesis GV60 Sport ,380,74,20,990,63200
+Genesis GV60 Sport Plus ,365,74,20,950,73100
+Genesis GV70 Electrified Sport ,350,74,21,860,67300
+Honda e Advance ,170,28.5,17,180,40300
+Honda e:Ny1 ,360,62,17,320,48200
+Hongqi E-HS9 84 kWh ,320,76.5,24,440,83600
+Hongqi E-HS9 99 kWh ,370,90,24,430,94600
+Hyundai IONIQ 5 Long Range 2WD ,390,74,19,1020,50400
+Hyundai IONIQ 5 Long Range AWD ,385,74,19,1010,60100
+Hyundai IONIQ 5 Standard Range 2WD ,295,54,18,720,46600
+Hyundai IONIQ 6 Long Range 2WD ,495,74,15,1290,52400
+Hyundai IONIQ 6 Long Range AWD ,440,74,17,1150,60200
+Hyundai IONIQ 6 Standard Range 2WD ,365,54,15,900,44900
+Hyundai Kona Electric 39 kWh ,250,39.2,16,220,35900
+Hyundai Kona Electric 48 kWh ,295,48.4,16,280,41000
+Hyundai Kona Electric 64 kWh ,395,64,16,370,42400
+Hyundai Kona Electric 65 kWh ,390,65.4,17,400,45600
+Jaguar I-Pace EV400 ,380,84.7,22,360,93900
+Jeep Avenger Electric ,300,50.8,17,480,38300
+Kia e-Soul 39.2 kWh ,230,39.2,17,200,38800
+Kia e-Soul 64 kWh ,370,64,17,350,44800
+Kia EV6 GT ,360,74,21,940,71100
+Kia EV6 Long Range 2WD ,410,74,18,1070,52000
+Kia EV6 Long Range AWD ,400,74,19,1050,57000
+Kia EV6 Standard Range 2WD ,305,54,18,750,46500
+Kia EV9 99.8 kWh AWD ,420,95,23,760,75700
+Kia EV9 99.8 kWh AWD GT-Line ,415,95,23,750,80600
+Kia EV9 99.8 kWh RWD ,445,95,21,810,72000
+Kia Niro EV ,385,64.8,17,390,42800
+Lexus RZ 450e ,320,64,20,480,67700
+Lotus Eletre ,495,109,22,1040,97300
+Lotus Eletre R ,455,109,24,950,152500
+Lucid Air Dream Edition P ,665,118,18,840,220000
+Lucid Air Dream Edition R ,685,118,17,870,220000
+Lucid Air Grand Touring ,665,112,17,840,162000
+Lucid Air Pure AWD ,590,92,16,990,112000
+Lucid Air Touring ,580,92,16,970,131500
+Maxus MIFA 9 ,345,90,26,290,69000
+Mazda MX-30 ,170,30,18,210,36200
+Mercedes EQA 250 ,395,66.5,17,570,54200
+Mercedes EQA 250+ ,420,70.5,17,580,52400
+Mercedes EQA 300 4MATIC ,350,66.5,19,500,58900
+Mercedes EQA 350 4MATIC ,350,66.5,19,500,61700
+Mercedes EQB 250 ,385,66.5,17,550,56200
+Mercedes EQB 250+ ,410,70.5,17,550,54500
+Mercedes EQB 300 4MATIC ,340,66.5,20,490,60500
+Mercedes EQB 350 4MATIC ,340,66.5,20,490,63200
+Mercedes EQC 400 4MATIC ,370,80,22,440,69600
+Mercedes EQE 300 ,515,89,17,650,68600
+Mercedes EQE 350 ,510,89,18,640,77100
+Mercedes EQE 350 4MATIC ,475,89,19,600,80200
+Mercedes EQE 350+ ,525,90.6,17,780,82000
+Mercedes EQE 500 4MATIC ,485,90.6,19,720,100900
+Mercedes EQE AMG 43 4MATIC ,465,90.6,20,690,107900
+Mercedes EQE AMG 53 4MATIC+ ,465,90.6,20,690,119700
+Mercedes EQE SUV 300 ,440,89,20,560,83700
+Mercedes EQE SUV 350 4MATIC ,425,89,21,540,94300
+Mercedes EQE SUV 350+ ,450,90.6,20,670,89400
+Mercedes EQE SUV 500 4MATIC ,435,90.6,21,650,108300
+Mercedes EQE SUV AMG 43 4MATIC ,415,90.6,22,620,127900
+Mercedes EQE SUV AMG 53 4MATIC+ ,410,90.6,22,610,144600
+Mercedes EQS 450 4MATIC ,610,108.4,18,910,121600
+Mercedes EQS 450+ ,635,108.4,17,950,109300
+Mercedes EQS 500 4MATIC ,590,108.4,18,880,136400
+Mercedes EQS 580 4MATIC ,590,108.4,18,880,159000
+Mercedes EQS AMG 53 4MATIC+ ,540,108.4,20,810,165800
+Mercedes EQS SUV 450 4MATIC ,490,108.4,22,730,121200
+Mercedes EQS SUV 450+ ,500,108.4,22,750,115800
+Mercedes EQS SUV 500 4MATIC ,490,108.4,22,730,138400
+Mercedes EQS SUV 580 4MATIC ,485,108.4,22,720,151400
+Mercedes EQT 200 Standard ,225,45,20,230,49400
+Mercedes EQV 250 Extra-Long ,210,60,29,200,68900
+Mercedes EQV 250 Long ,210,60,29,200,68100
+Mercedes EQV 300 Extra-Long ,310,90,29,310,78700
+Mercedes EQV 300 Long ,310,90,29,310,77600
+Mercedes eVito Tourer Extra-Long 60 kWh ,205,60,29,300,70900
+Mercedes eVito Tourer Extra-Long 90 kWh ,305,90,30,310,72700
+Mercedes eVito Tourer Long 60 kWh ,210,60,29,310,69900
+Mercedes eVito Tourer Long 90 kWh ,310,90,29,310,71700
+MG Marvel R ,365,70,19,400,48200
+MG Marvel R Performance ,350,70,20,380,51700
+MG MG4 Electric 51 kWh ,300,50.8,17,340,33600
+MG MG4 Electric 64 kWh ,360,61.7,17,560,37900
+MG MG4 Electric 77 kWh ,425,74.4,18,430,41300
+MG MG4 Electric XPOWER ,320,61.7,19,490,44600
+MG MG5 Electric Long Range ,335,57.4,17,330,38700
+MG MG5 Electric Standard Range ,265,46,17,320,35700
+MG ZS EV Long Range ,370,68.3,19,420,38900
+MG ZS EV Standard Range ,265,49,19,250,34900
+Mini Cooper SE ,180,28.9,16,260,37200
+Mini Cooper SE Convertible ,165,28.9,18,230,61500
+NIO EL6 100 kWh ,440,90,21,460,75700
+NIO EL6 75 kWh ,350,70.5,20,470,66700
+NIO EL7 100 kWh ,430,90,21,450,96400
+NIO EL7 75 kWh ,340,70.5,21,460,87400
+NIO ET5 100 kWh ,500,90,18,520,70100
+NIO ET5 75 kWh ,395,70.5,18,530,61100
+NIO ET5 Touring 100 kWh ,485,90,19,500,70700
+NIO ET5 Touring 75 kWh ,385,70.5,18,520,61700
+NIO ET7 100 kWh ,505,90,18,530,92400
+NIO ET7 75 kWh ,400,70.5,18,540,83400
+Nissan Ariya 63kWh ,335,63,19,450,47700
+Nissan Ariya 87kWh ,450,87,19,540,57000
+Nissan Ariya e-4ORCE 87kWh - 225 kW ,405,87,22,480,62000
+Nissan Ariya e-4ORCE 87kWh - 290 kW ,405,87,22,480,71700
+Nissan Leaf ,235,39,17,230,34200
+Nissan Leaf e+ ,340,59,17,240,41500
+Opel Astra Electric ,310,50.8,16,500,42500
+Opel Combo-e Life 50 kWh ,205,46.3,23,330,41200
+Opel Combo-e Life XL 50 kWh ,200,46.3,23,320,44800
+Opel Corsa Electric 50 kWh ,295,46.3,16,470,34800
+Opel Corsa Electric 51 kWh ,315,48.1,15,490,38000
+Opel Corsa-e ,295,46.3,16,470,36700
+Opel Mokka-e ,260,46.3,18,420,40200
+Opel Vivaro-e Combi L 50 kWh ,180,46.3,26,290,50900
+Opel Vivaro-e Combi L 75 kWh ,260,68,26,280,58400
+Opel Vivaro-e Combi M 50 kWh ,185,46.3,25,290,49600
+Opel Vivaro-e Combi M 75 kWh ,265,68,26,290,57000
+Opel Zafira-e Life L 50 kWh ,180,46.3,26,290,61600
+Opel Zafira-e Life L 75 kWh ,260,68,26,280,69100
+Opel Zafira-e Life M 50 kWh ,185,46.3,25,290,60200
+Opel Zafira-e Life M 75 kWh ,265,68,26,290,67700
+ORA Funky Cat 48 kWh ,260,45.4,18,240,39000
+ORA Funky Cat 63 kWh ,340,59.3,17,240,44500
+ORA Funky Cat GT ,330,59.3,18,230,49500
+Peugeot e-2008 50 kWh ,270,46.3,17,430,38000
+Peugeot e-2008 54 kWh ,300,50.8,17,480,40700
+Peugeot e-208 ,285,46.3,16,460,37000
+Peugeot e-208 50 kWh ,290,46.3,16,460,37200
+Peugeot e-208 51 kWh ,310,48.1,16,480,39900
+Peugeot e-308 ,300,50.8,17,450,44200
+Peugeot e-308 SW ,300,50.8,17,450,44900
+Peugeot e-Expert Combi Long 50 kWh ,185,46.3,25,290,51500
+Peugeot e-Expert Combi Long 75 kWh ,260,68,26,280,59000
+Peugeot e-Expert Combi Standard 50 kWh ,185,46.3,25,290,50100
+Peugeot e-Expert Combi Standard 75 kWh ,265,68,26,290,57700
+Peugeot e-Rifter Long 50 kWh ,200,46.3,23,320,41900
+Peugeot e-Rifter Standard 50 kWh ,205,46.3,23,330,40400
+Peugeot e-Traveller Long 50 kWh ,185,46.3,25,290,56900
+Peugeot e-Traveller Long 75 kWh ,260,68,26,280,64400
+Peugeot e-Traveller Standard 50 kWh ,185,46.3,25,290,55500
+Peugeot e-Traveller Standard 75 kWh ,265,68,26,290,63000
+Polestar 2 Long Range Dual Motor ,440,79,18,660,59300
+Polestar 2 Long Range Performance ,420,79,19,630,65800
+Polestar 2 Long Range Single Motor ,455,79,17,680,54800
+Polestar 2 Standard Range Single Motor ,390,67,17,460,51000
+Polestar 3 Long Range Dual motor ,490,107,22,640,89300
+Polestar 3 Long Range Performance ,470,107,23,610,95900
+Porsche Taycan ,420,71,17,1030,95900
+Porsche Taycan 4 Cross Turismo ,440,83.7,19,1080,106200
+Porsche Taycan 4S ,415,71,17,1020,117600
+Porsche Taycan 4S Cross Turismo ,440,83.7,19,1080,123000
+Porsche Taycan 4S Plus ,480,83.7,17,1180,123200
+Porsche Taycan 4S Plus Sport Turismo ,430,83.7,20,1060,123700
+Porsche Taycan 4S Sport Turismo ,370,71,19,910,118000
+Porsche Taycan GTS ,450,83.7,19,1110,143300
+Porsche Taycan GTS Sport Turismo ,425,83.7,20,1050,144200
+Porsche Taycan Plus ,485,83.7,17,1190,101800
+Porsche Taycan Plus Sport Turismo ,445,83.7,19,1090,102700
+Porsche Taycan Sport Turismo ,380,71,19,930,96800
+Porsche Taycan Turbo ,445,83.7,19,1090,168100
+Porsche Taycan Turbo Cross Turismo ,425,83.7,20,1050,169600
+Porsche Taycan Turbo S ,430,83.7,20,1060,202000
+Porsche Taycan Turbo S Cross Turismo ,410,83.7,20,1010,203400
+Porsche Taycan Turbo S Sport Turismo ,395,83.7,21,970,202900
+Porsche Taycan Turbo Sport Turismo ,405,83.7,21,1000,169100
+Renault Kangoo E-Tech Electric ,220,45,21,230,39300
+Renault Megane E-Tech EV40 130hp ,260,40,15,370,40200
+Renault Megane E-Tech EV60 130hp ,380,60,16,530,45500
+Renault Megane E-Tech EV60 220hp ,380,60,16,530,44800
+Renault Zoe ZE50 R110 ,315,52,17,230,35900
+Renault Zoe ZE50 R135 ,310,52,17,230,37000
+Seres 3 ,260,51,20,240,38000
+Skoda Enyaq 60 ,340,58,17,460,44600
+Skoda Enyaq 85 ,455,77,17,680,49400
+Skoda Enyaq 85x ,440,77,18,660,51200
+Skoda Enyaq Coupe 60 ,355,58,16,480,48000
+Skoda Enyaq Coupe 85 ,485,77,16,720,52100
+Skoda Enyaq Coupe 85x ,470,77,16,700,53400
+Skoda Enyaq Coupe iV 80 ,465,77,17,720,53200
+Skoda Enyaq Coupe iV 80x ,450,77,17,630,56700
+Skoda Enyaq Coupe iV RS ,435,77,18,600,62600
+Skoda Enyaq Coupe RS ,455,77,17,680,63500
+Skoda Enyaq iV 60 ,340,58,17,460,43500
+Skoda Enyaq iV 80 ,440,77,18,680,48900
+Skoda Enyaq iV 80x ,425,77,18,590,50900
+Skoda Enyaq iV RS ,420,77,18,580,63300
+Skoda Enyaq RS ,435,77,18,650,61100
+Smart #1 ,335,62,19,520,41900
+Smart #1 Brabus ,315,62,20,490,48900
+Smart #1 Pulse ,320,62,19,490,46500
+SsangYong Korando e-Motion ,290,56,19,330,40200
+Subaru Solterra AWD ,320,64,20,480,56900
+Tesla Model 3 ,420,57.5,14,700,45100
+Tesla Model 3 ,405,57.5,14,680,43800
+Tesla Model 3 Long Range Dual Motor ,505,75,15,780,53600
+Tesla Model 3 Long Range Dual Motor ,485,75,16,750,52300
+Tesla Model 3 Long Range RWD ,495,75,15,770,47000
+Tesla Model 3 Performance ,460,75,16,710,56300
+Tesla Model S Dual Motor ,575,95,17,800,96000
+Tesla Model S Plaid ,560,95,17,780,111000
+Tesla Model X Dual Motor ,475,95,20,660,101000
+Tesla Model X Plaid ,455,95,21,630,116000
+Tesla Model Y ,350,57.5,16,580,47800
+Tesla Model Y ,350,57.5,16,580,47800
+Tesla Model Y Long Range Dual Motor ,435,75,17,670,57000
+Tesla Model Y Performance ,415,75,18,640,62300
+Toyota bZ4X AWD ,315,64,20,470,58700
+Toyota bZ4X FWD ,340,64,19,510,48200
+Toyota Proace City Verso Electric L1 50 kWh ,210,46.3,22,330,41600
+Toyota Proace City Verso Electric L2 50 kWh ,205,46.3,23,330,43500
+Toyota PROACE Shuttle L 50 kWh ,180,46.3,26,290,68600
+Toyota PROACE Shuttle L 75 kWh ,260,68,26,280,69800
+Toyota PROACE Shuttle M 50 kWh ,185,46.3,25,290,58900
+Toyota PROACE Shuttle M 75 kWh ,265,68,26,290,60100
+Toyota PROACE Verso L 75 kWh ,260,68,26,280,71400
+Toyota PROACE Verso M 75 kWh ,265,68,26,290,64500
+Volkswagen ID. Buzz Pro ,345,77,22,480,65400
+Volkswagen ID.3 Pro ,350,58,17,450,42500
+Volkswagen ID.3 Pro S - 4 Seats ,455,77,17,680,47800
+Volkswagen ID.4 GTX ,400,77,19,560,57500
+Volkswagen ID.4 GTX ,420,77,18,630,53300
+Volkswagen ID.4 Pro ,410,77,19,630,52000
+Volkswagen ID.4 Pro ,435,77,18,650,46300
+Volkswagen ID.4 Pro 4MOTION ,425,77,18,630,49000
+Volkswagen ID.4 Pro Performance ,410,77,19,630,50000
+Volkswagen ID.4 Pure ,285,52,18,360,40300
+Volkswagen ID.4 Pure ,285,52,18,360,39900
+Volkswagen ID.4 Pure Performance ,285,52,18,360,42700
+Volkswagen ID.5 GTX ,430,77,18,640,56500
+Volkswagen ID.5 GTX ,405,77,19,560,60100
+Volkswagen ID.5 Pro ,455,77,17,680,49000
+Volkswagen ID.5 Pro ,430,77,18,660,51000
+Volkswagen ID.5 Pro Performance ,430,77,18,660,52300
+Volkswagen ID.7 Pro ,475,77,16,710,60500
+Volvo C40 Recharge Single Motor ,355,66,19,430,49200
+Volvo C40 Recharge Single Motor ER ,420,79,19,630,53700
+Volvo C40 Recharge Twin Motor ,400,79,20,600,61400
+Volvo EX30 Single Motor ,280,49,18,430,36700
+Volvo EX30 Single Motor ER ,370,64,17,550,41600
+Volvo EX30 Twin Motor Performance ,360,64,18,540,49200
+Volvo EX90 Single Motor ,460,101,22,600,83500
+Volvo EX90 Twin Motor ,465,107,23,610,97300
+Volvo EX90 Twin Motor Performance ,450,107,24,590,104600
+Volvo XC40 Recharge Single Motor ,345,66,19,420,46700
+Volvo XC40 Recharge Single Motor ER ,405,79,20,600,52200
+Volvo XC40 Recharge Twin Motor ,390,79,20,580,60000
+XPENG G9 AWD Long Range ,440,94,21,920,73200
+XPENG G9 RWD Long Range ,470,94,20,980,63200
+XPENG G9 RWD Standard Range ,375,75,20,780,59200
+XPENG P7 AWD Performance ,460,82.7,18,640,61200
+XPENG P7 RWD Long Range ,495,82.7,17,690,51200
+XPENG P7 Wing Edition ,465,82.7,18,650,71200
+Zeekr 001 Long Range RWD ,530,94,18,740,60700
+Zeekr 001 Performance AWD ,505,94,19,700,63700
+Zeekr 001 Privilege AWD ,500,94,19,700,68700
